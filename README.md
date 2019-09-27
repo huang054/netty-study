@@ -8,6 +8,8 @@
 
 #                                   netty源码感悟
 
+以下基于4.1.41.Final版本
+
 ## 1.首先看个example，netty里面的demo
 
 ```java
